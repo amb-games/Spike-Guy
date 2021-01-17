@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if !place_free(x, y+1) {
-vspeed = -3
-}
+hspeed = 1
+image_speed = 0.4

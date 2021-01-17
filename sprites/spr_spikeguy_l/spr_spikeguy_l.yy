@@ -80,8 +80,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"815d27cd-d20f-43ef-980d-83bb9c22643c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "workers",
+    "path": "folders/Sprites/workers.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_spikeguy_l",
