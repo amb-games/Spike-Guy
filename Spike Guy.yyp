@@ -57,6 +57,7 @@
     {"id":{"name":"spr_memo","path":"sprites/spr_memo/spr_memo.yy",},"order":10,},
     {"id":{"name":"spr_synergybanner","path":"sprites/spr_synergybanner/spr_synergybanner.yy",},"order":2,},
     {"id":{"name":"spr_teamsbanner","path":"sprites/spr_teamsbanner/spr_teamsbanner.yy",},"order":3,},
+    {"id":{"name":"spikeguy_background","path":"sounds/spikeguy_background/spikeguy_background.yy",},"order":0,},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},"order":1,},
     {"id":{"name":"spr_management_r","path":"sprites/spr_management_r/spr_management_r.yy",},"order":4,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":0,},
