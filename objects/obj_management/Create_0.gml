@@ -2,8 +2,6 @@
 // You can write your code in this editor
 
 
-
-
 if movement == 0 {
 	image_speed = 0.4
 	hspeed = 1
