@@ -29,7 +29,7 @@
     {"isDnD":false,"eventNum":1,"eventType":10,"collisionObjectId":null,"parent":{"name":"obj_spikeguy","path":"objects/obj_spikeguy/obj_spikeguy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":38,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_spikeguy","path":"objects/obj_spikeguy/obj_spikeguy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},"parent":{"name":"obj_spikeguy","path":"objects/obj_spikeguy/obj_spikeguy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":2,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_spikeguy","path":"objects/obj_spikeguy/obj_spikeguy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_spikeguy","path":"objects/obj_spikeguy/obj_spikeguy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

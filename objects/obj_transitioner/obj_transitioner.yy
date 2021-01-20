@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_getbacktowork",
-    "path": "sprites/spr_getbacktowork/spr_getbacktowork.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,8 +18,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_getbacktowork","path":"objects/obj_getbacktowork/obj_getbacktowork.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":40,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_getbacktowork","path":"objects/obj_getbacktowork/obj_getbacktowork.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":40,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_transitioner","path":"objects/obj_transitioner/obj_transitioner.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +27,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_getbacktowork",
+  "name": "obj_transitioner",
   "tags": [],
   "resourceType": "GMObject",
 }
