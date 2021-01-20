@@ -72,8 +72,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"eaf83048-4ad4-4fb3-b43f-caa8c157edbb","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "workers",
+    "path": "folders/Sprites/workers.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_spike_employee",
