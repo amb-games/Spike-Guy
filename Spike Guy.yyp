@@ -7,6 +7,7 @@
     {"id":{"name":"spr_getbacktowork","path":"sprites/spr_getbacktowork/spr_getbacktowork.yy",},"order":9,},
     {"id":{"name":"spr_neurodiversitybanner","path":"sprites/spr_neurodiversitybanner/spr_neurodiversitybanner.yy",},"order":4,},
     {"id":{"name":"rm_levelxx4","path":"rooms/rm_levelxx4/rm_levelxx4.yy",},"order":24,},
+    {"id":{"name":"spikeguy_jump","path":"sounds/spikeguy_jump/spikeguy_jump.yy",},"order":1,},
     {"id":{"name":"obj_transitioner","path":"objects/obj_transitioner/obj_transitioner.yy",},"order":13,},
     {"id":{"name":"rm_levelx8","path":"rooms/rm_levelx8/rm_levelx8.yy",},"order":17,},
     {"id":{"name":"rm_first","path":"rooms/rm_first/rm_first.yy",},"order":27,},
@@ -67,6 +68,7 @@
     {"id":{"name":"obj_secret","path":"objects/obj_secret/obj_secret.yy",},"order":14,},
     {"id":{"name":"spr_teamsbanner","path":"sprites/spr_teamsbanner/spr_teamsbanner.yy",},"order":3,},
     {"id":{"name":"spikeguy_background","path":"sounds/spikeguy_background/spikeguy_background.yy",},"order":0,},
+    {"id":{"name":"spikeguy_finale","path":"sounds/spikeguy_finale/spikeguy_finale.yy",},"order":2,},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},"order":1,},
     {"id":{"name":"spr_boss","path":"sprites/spr_boss/spr_boss.yy",},"order":1,},
     {"id":{"name":"spr_management_r","path":"sprites/spr_management_r/spr_management_r.yy",},"order":4,},
@@ -89,6 +91,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_zfinale","path":"rooms/rm_zfinale/rm_zfinale.yy",},},
     {"roomId":{"name":"rm_first","path":"rooms/rm_first/rm_first.yy",},},
     {"roomId":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},},
     {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
@@ -118,7 +121,6 @@
     {"roomId":{"name":"rm_levelxx3","path":"rooms/rm_levelxx3/rm_levelxx3.yy",},},
     {"roomId":{"name":"rm_levelxx4","path":"rooms/rm_levelxx4/rm_levelxx4.yy",},},
     {"roomId":{"name":"rm_levelxx5","path":"rooms/rm_levelxx5/rm_levelxx5.yy",},},
-    {"roomId":{"name":"rm_zfinale","path":"rooms/rm_zfinale/rm_zfinale.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
