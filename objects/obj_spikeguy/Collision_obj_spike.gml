@@ -6,6 +6,18 @@ if (!place_free(x+hspeed,y) and other.solid)
     if (hspeed>0){move_contact_solid(0,abs(hspeed));}
     hspeed=0;
 }
+else{ 
+	if other.hurts == true {
+	
+	blood_emitter = part_emitter_create(blood)
+	part_emitter_region(blood, blood_emitter, x, y, x+32, y+32, pt_shape_explosion, ps_distr_gaussian)
+	part_emitter_burst(blood, blood_emitter, blood_spatter, 1)
+	
+	other.hurts = false
+	x = global.character_start_x
+	y = global.character_start_y
+}
+}
   
 if (!place_free(x,y+vspeed))
 {
