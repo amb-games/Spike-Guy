@@ -41,7 +41,7 @@
     "spriteId": {"name":"spr_drone_r","path":"sprites/spr_drone_r/spr_drone_r.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 31.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

@@ -8,6 +8,8 @@ if (!place_free(x+hspeed,y) and other.solid)
 }
 else{ 
 	if other.hurts == true {
+		
+	audio_play_sound(spikeguy_blood, 10, false)
 	
 	blood_emitter = part_emitter_create(blood)
 	part_emitter_region(blood, blood_emitter, x, y, x+32, y+32, pt_shape_explosion, ps_distr_gaussian)
